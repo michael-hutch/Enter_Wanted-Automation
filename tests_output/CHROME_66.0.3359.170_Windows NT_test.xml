@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="4">
+
+  <testsuite name="test"
+    errors="0" failures="0" hostname="" id="" package="test" skipped="0"
+    tests="4" time="10.57" timestamp="Wed, 16 May 2018 22:03:46 GMT">
+  
+    <testcase name="Required Fields Good Test" classname="test" time="5.094" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Optional field test" classname="test" time="2.057" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Header included Errors test" classname="test" time="1.931" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Must include test" classname="test" time="1.489" assertions="13">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
